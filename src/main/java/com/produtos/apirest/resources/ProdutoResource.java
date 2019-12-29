@@ -22,7 +22,7 @@ import io.swagger.annotations.ApiOperation;
 @RestController
 @RequestMapping(value="/api")
 @Api(value="Api Rest Produtos")
-@CrossOrigin(origins = "*") //defini qual dominio pode acessar a API.
+@CrossOrigin(origins = "*") //define qual dominio pode acessar a API. -> *Libera o acesso para todos os dominios.
 public class ProdutoResource {
 	
 	@Autowired
