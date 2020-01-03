@@ -2,4 +2,4 @@
 O projeto consiste em uma API Rest de produtos. 
 Foram utilizados Spring Boot, Maven, Persistencia de Dados, PostgresSQL, Swagger e   Heroku.
 
-
+https://products-apirest.herokuapp.com/swagger-ui.html
